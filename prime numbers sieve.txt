@@ -1,4 +1,4 @@
-import itertools
+asimport itertools
 
 def iter_primes():
      # an iterator of all numbers between 2 and +infinity

@@ -1,4 +1,4 @@
-from itertools import groupby
+asfrom itertools import groupby
 lines = '''
 This is the
 first paragraph.

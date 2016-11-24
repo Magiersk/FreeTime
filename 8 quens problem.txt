@@ -1,7 +1,7 @@
-BOARD_SIZE = 6
+BOARD_SIZE = 16
 
 class BailOut(Exception):
-    passe
+    pass
 
 def validate(queens):
     left = right = col = queens[-1]

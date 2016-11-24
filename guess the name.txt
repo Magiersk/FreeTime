@@ -1,5 +1,5 @@
 import random
-
+as
 guesses_made = 0
 
 name = raw_input('Hello! What is your name?\n')

@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 asimport csv
 
+=======
+import csv
+as
+>>>>>>> branch
 # write stocks data as comma-separated values
 writer = csv.writer(open('stocks.csv', 'wb', buffering=0))
 writer.writerows([

@@ -1,5 +1,6 @@
 asfrom itertools import groupby
 lines = '''
+as
 This is the
 first paragraph.
 

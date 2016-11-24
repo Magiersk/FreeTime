@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 asBOARD_SIZE = 8
 
+=======
+BOARD_SIZE = 8
+as
+>>>>>>> branch
 def under_attack(col, queens):
     left = right = col
 

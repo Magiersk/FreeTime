@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 asimport random
 
+=======
+import random
+as
+>>>>>>> branch
 guesses_made = 0
 
 name = raw_input('Hello! What is your name?\n')

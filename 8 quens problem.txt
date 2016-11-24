@@ -1,5 +1,4 @@
 BOARD_SIZE = 16
-
 class BailOut(Exception):
     pass
 

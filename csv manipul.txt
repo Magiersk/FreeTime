@@ -1,4 +1,4 @@
-import csv
+asimport csv
 
 # write stocks data as comma-separated values
 writer = csv.writer(open('stocks.csv', 'wb', buffering=0))
